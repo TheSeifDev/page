@@ -1,0 +1,6 @@
+# build artifacts (regenerable) — الـ PDF نفسه مت-commit حسب قرار المؤلف
+blueprint/.venv/
+blueprint/dist/web/
+blueprint/dist/qa/
+blueprint/**/__pycache__/
+node_modules/
