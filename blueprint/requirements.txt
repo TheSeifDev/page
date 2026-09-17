@@ -1,0 +1,5 @@
+fpdf2>=2.8
+uharfbuzz
+python-bidi
+Pillow
+pymupdf   # QA only: rasterize pages for visual checks
